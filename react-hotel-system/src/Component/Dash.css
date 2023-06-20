@@ -1,0 +1,27 @@
+
+.foter{
+    height: 50px;
+    width: 110%;
+    background-color: brown;
+    clear: both;
+    
+}
+
+
+    .header{
+    height: 80px;
+    width: 100%;
+    background-color: green;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.nav{
+    height: 500px;
+    width: 22%;
+    background-color: grey;
+    margin: auto;
+    float:left;
+    text-align: justify;
+}

@@ -1,0 +1,28 @@
+table, th, td,tr{
+    background-color:white;
+    height: 40px;
+    width: 40px;
+    margin: 1px; 
+    border: 1px solid black;
+    padding: 1px;
+
+   border-collapse: collapse;
+}
+body{
+    background-color: grey;
+}
+
+.th{
+width: 20px;
+height: 40px;
+padding: 20px;
+
+}
+.td{
+background-color: brown;
+}
+
+.lm{
+clear: both;
+text-align: center;
+}
